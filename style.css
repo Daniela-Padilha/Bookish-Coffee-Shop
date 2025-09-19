@@ -1,0 +1,66 @@
+body {
+  text-align: center;
+  background-color: rgb(203, 168, 111);
+  color: rgb(49, 34, 10);
+  font-family: Tahoma;
+}
+
+#title {
+  font-size: 35px;
+  font-family: sans-serif;
+}
+
+main {
+  background-color: rgb(229, 205, 166);
+  color: black;
+  width: 80%;
+  max-width: 900px;
+  min-width: 200px;
+  margin: auto;
+  border-radius: 5px;
+  padding: 1em 1em;
+}
+
+label {
+  display: block;
+  text-align: left;
+  padding: 8px;
+}
+
+textarea {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+a {
+  color: rgb(49, 34, 10);
+}
+
+a::after {
+  color: white;
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input {
+  display: block;
+  background-color: rgb(243, 231, 212);
+}
+
+#button{
+  background-color: rgb(49, 34, 10);
+  color: rgb(243, 231, 212);
+  padding: 10px;
+  font-size: 13px;
+  margin: auto;
+}
+
+h4 {
+  text-align: left;
+}
+
+.checkbox {
+  display: inline-block;
+}
