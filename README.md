@@ -1,12 +1,13 @@
-# Bookish-Coffee-Shop
+# 📚☕ Bookish Coffee Shop
 
-This project is a simple menu and survey form designed for a Bookish Coffee SHop, where users can see the menu and make their order.
+This project is a simple menu and survey form designed for a cozy, book-themed coffee shop. Users can browse the menu, customize their order, and interact with a styled form that captures their preferences.
 
-## Features  
-- Clean HTML form structure  
-- CSS styling for layout and colors  
-- Input fields  
-- Checkboxes
+## ✨ Features  
+- 📋 Clean HTML structure with semantic elements
+- 🎨 CSS styling for layout, colors, and a welcoming atmosphere
+- 🖊️ Input fields for text and customer details
+- ✅ Checkboxes and options for drink and snack selections
+- 📚 A playful bookish coffee shop theme
 
 ## Screenshot  
 <img width="1098" height="901" alt="image" src="https://github.com/user-attachments/assets/f55a57c6-fd83-4928-a2da-c1ea360463c8" />
@@ -14,11 +15,11 @@ This project is a simple menu and survey form designed for a Bookish Coffee SHop
 ## Live Demo  
 👉 [View on GitHub Pages](https://daniela-padilha.github.io/Book-Survey-Form/)  
 
-## Tech Stack  
+## 🛠️ Tech Stack  
 - HTML5  
-- CSS3  
+- CSS3
 
-## How to Run Locally  
+## 🚀 How to Use
 1. Clone this repository  
    ```bash
    git clone https://github.com/Daniela-Padilha/Bookish-Coffee-Shop.git
@@ -28,3 +29,5 @@ This project is a simple menu and survey form designed for a Bookish Coffee SHop
    cd Bookish-Coffee-Shop
    ```
 3. Open ```index.html``` in your browser
+4. Explore the menu and available options.
+5. Fill out the form to place your “order” or share preferences.
