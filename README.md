@@ -13,7 +13,7 @@ This project is a simple menu and survey form designed for a cozy, book-themed c
 <img width="1098" height="901" alt="image" src="https://github.com/user-attachments/assets/f55a57c6-fd83-4928-a2da-c1ea360463c8" />
 
 ## Live Demo  
-👉 [View on GitHub Pages](https://daniela-padilha.github.io/Book-Survey-Form/)  
+👉 [View on GitHub Pages](https://daniela-padilha.github.io/Bookish-Coffee-Shop/)  
 
 ## 🛠️ Tech Stack  
 - HTML5  
